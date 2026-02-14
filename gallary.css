@@ -1,0 +1,310 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/ef9ee08ae5263426a7705d24e9dd33ada9629d824c0cfbb1d30e8ee85204d772e74f535c0e1190a31a936cd44478765bb67b0c3575a7f26716bbcb_1280.jpg');
+  background-position: 50% 50%, 50% 50%;
+  background-size: cover, cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 143px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 50px auto -336px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 91px;
+    margin-bottom: -377px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 2518px;
+}
+
+.u-section-2 .u-gallery-1 {
+  height: 1508px;
+  margin-top: 71px;
+  margin-bottom: 0;
+  grid-gap: 17px;
+}
+
+.u-section-2 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  --gap: 17px;
+}
+
+.u-section-2 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-11 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-12 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-13 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-14 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-15 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  --gap: 17px;
+  grid-auto-columns: calc(33.3333% - 11.3333px);
+  grid-template-columns: repeat(3, calc(33.3333% - 11.3333px));
+  min-height: 849px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0 1px 30px;
+}
+
+.u-section-2 .u-video-1 {
+  height: 416px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 1px 30px;
+}
+
+.u-section-2 .u-video-2 {
+  height: 416px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 0 1px 30px;
+}
+
+.u-section-2 .u-video-3 {
+  height: 416px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 0 1px 30px;
+}
+
+.u-section-2 .u-video-4 {
+  height: 416px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 0 1px 30px;
+}
+
+.u-section-2 .u-video-5 {
+  height: 416px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 0 1px 30px;
+}
+
+.u-section-2 .u-video-6 {
+  height: 416px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2125px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 1115px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-gap: 17px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(33.333333333333336% - 11.333333333333334px);
+    grid-template-columns: repeat(3, calc(33.333333333333336% - 11.333333333333334px));
+    min-height: 623px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 3079px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 2069px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(50% - 8.5px);
+    grid-template-columns: repeat(2, calc(50% - 8.5px));
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 6865px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    margin-top: 73px;
+    height: 5855px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 4785px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 3775px;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 192px;
+  }
+
+  .u-section-2 .u-video-2 {
+    height: 192px;
+  }
+
+  .u-section-2 .u-video-3 {
+    height: 192px;
+  }
+
+  .u-section-2 .u-video-4 {
+    height: 192px;
+  }
+
+  .u-section-2 .u-video-5 {
+    height: 192px;
+  }
+
+  .u-section-2 .u-video-6 {
+    height: 192px;
+  }
+}@font-face {
+  font-family: 'Droid';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Droid.ttf);
+}
+/* page-custom-fonts */
+@font-face {
+  font-family: 'Droid';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Droid.ttf);
+}
